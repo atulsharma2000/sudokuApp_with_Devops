@@ -95,8 +95,6 @@ button.onclick = function () {
     xhrRequest.send()
 }
 
-//to be completed by student, function should not return anything
-// you can make a call to changeboard(board) function to update the state on the screen
 //returns a boolean true of false
 
 function isSafe(board,r,c,no){
